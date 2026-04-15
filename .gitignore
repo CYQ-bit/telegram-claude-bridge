@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Runtime data
+data/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
